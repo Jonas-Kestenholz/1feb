@@ -1,0 +1,10 @@
+String teacherName = "Tess Løvgreen";
+int year = 365;
+String capital = "København";
+boolean happy = true;
+int math = 60*24;
+boolean date = 22.12;
+String  =  "Hej, jeg heddder "+teachername;
+boolean sad = false;
+int 2.2 + 33;
+char a ='S';
